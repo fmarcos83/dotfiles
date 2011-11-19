@@ -1,0 +1,12 @@
+#Android development path
+ANDROIDENV="/opt/android-sdk-linux/tools"
+ANDROIDTOOLS="/opt/android-sdk-linux/platform-tools"
+PATH=$PATH:$ANDROIDENV:$ANDROIDTOOLS
+export ANDROIDENV
+export ANDROIDTOOLS
+
+#GIT Hacks
+gitdiff()
+{
+    git diff "${@}" | colordiff
+}
