@@ -4,7 +4,7 @@ set expandtab
 set ai
 set number
 set ruler
-autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=4 softtabstop=4 smartindent
+autocmd FileType python,php,html,shell setlocal expandtab shiftwidth=4 tabstop=4 softtabstop=4 smartindent
 
 " view trailing whitespaces and tabs
 set list
