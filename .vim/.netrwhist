@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/francisco/workspace/collaboration'
-let g:netrw_dirhist_2='/home/francisco/workspace/collaboration/picgay'
-let g:netrw_dirhist_3='/home/francisco/.vim'
-let g:netrw_dirhist_4='/home/francisco/workspace/Algorithms/insertion-sort'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/francisco/workspace/future_collaboration/picgay_api'
+let g:netrw_dirhist_2='/home/francisco/workspace/future_collaboration/picgay_api/application'
+let g:netrw_dirhist_3='/home/francisco/workspace/future_collaboration/picgay_api'
+let g:netrw_dirhist_4='/home/francisco/workspace/future_collaboration/picgay_api/public'
+let g:netrw_dirhist_5='/etc/php5/fpm/conf.d'
